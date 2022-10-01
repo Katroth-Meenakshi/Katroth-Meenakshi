@@ -1,30 +1,7 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
 @Katroth-Meenakshi
-Mudavath1234 /
+
 latex
-Public
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-latex/echo "# latex" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https:/github.com/Mudavath1234/Phyton Assignment
-@Mudavath1234
-Mudavath1234 Update Phyton Assignment
-Latest commit b264cb1 1 hour ago
-History
-1 contributor
-127 lines (116 sloc) 2.97 KB
 
 \documentclass{article}
 \usepackage{minted}
