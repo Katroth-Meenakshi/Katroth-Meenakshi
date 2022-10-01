@@ -1,29 +1,7 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
 @Katroth-Meenakshi
-latex
-Public
 
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
 
-    Insights
-
-latex/echo "# latex" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https:/github.com/Mudavath1234/Latex .Article Document
-@Mudavath1234
-Mudavath1234 Rename Latex Document to Latex .Article Document
-Latest commit 514b0d5 1 hour ago
-History
-1 contributor
-112 lines (112 sloc) 6.85 KB
 \documentclass[a4paper]{article}
 \usepackage{tabularx}
 \usepackage{multicol}
@@ -132,19 +110,4 @@ cell1&cell2&cell3\\ \hline
     \label{tab:my_label}
 \end{table}
 \end{document}
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
