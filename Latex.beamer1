@@ -13,7 +13,7 @@ latex
 % Title page details: 
 \title{MY FIRST LATEX PRESENTATION}
  \subtitle{ON BEAMER}
-\author{UDAYKUMARNAIK MUDAVATH}
+\author{MEENAKSHI KATROTH}
  \institute{RGUKT BASAR}
 
 
@@ -60,14 +60,14 @@ latex
 
 \begin{frame}{ABOUT THE AUTHOR}
      \begin{block}{PERSONAL DETAILS}
-   NAME :        MUDAVATH UDAY KUMAR NAIK \\
-   FATHER NAME:  MUDAVATH MUNYA \\
-   MOTHER NAME:  MUDAVATH GOMI 
+   NAME :        KATROTH MEENAKSHI \\
+   FATHER NAME:  KATROTH LALU \\
+   MOTHER NAME:  KATROTH MANJULA 
      \end{block}
      \begin{alertblock}{ADDRESS}
-     VADTHYATHANDA GAJINAGAR VILLLAGE \\
-     KONDAMALLEPALLY MANDAL \\
-     NALGONDA DISTRICT\\
+     LALUTHANDA CHINNA CHINTHA KUNTA VILLLAGE \\
+     NARSAPUR MANDAL \\
+     MEDAK DISTRICT\\
      TELANGANA STATE 
         
      \end{alertblock}
@@ -100,13 +100,13 @@ latex
  \hline
      NAME & ID NUMBER & CGPA \\ 
  \hline
-     UDAY KUMAR NAIK & B192476 & 8.4\\ 
+     MEENAKSHI & B192491 & 8.69\\ 
  \hline
-     PAVAN KALYAN & B191200 & 9.6\\ 
+     MUSKAN & B1912250 & 9.6\\ 
 \hline
-     SHASHI KUMAR & B191916 & 9.5\\
+     GEETHA & B191916 & 9.5\\
 \hline
-     SAI KUMAR & B192478 & 9.3 \\
+     SRUTHI & B192478 & 9.3 \\
 \hline
 
  \end{tabular}
